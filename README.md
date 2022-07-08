@@ -1,3 +1,3 @@
-# Comexting
+# Comexting 
 
-Sitio web..
+Sitio web de aprendizaje para todos.
