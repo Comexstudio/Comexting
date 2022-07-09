@@ -144,6 +144,14 @@ nav button{
     color: var(--color-bg2);
 }
 
+nav ul .session{
+    background: var(--color-success);
+    border: 1px solid transparent;
+    transition: var(--transition);
+    border-radius: 1px;
+
+}
+
 /* ========================= HAEDER ====================== */
 
 header{
