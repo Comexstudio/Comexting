@@ -565,6 +565,13 @@ footer ul li a:hover{
     }
 }
 
+    /* ======================================= MEDIA QUERIES (PHONES 300px) ============================== */
+@media screen and ( max-width: 300px ){
+    .header__container{
+        margin-top: 1px;
+    }
+}
+
     /* ======================================= MEDIA QUERIES (PHONES) ============================== */
 @media screen and ( max-width: 600px ){
     .container{
@@ -584,7 +591,7 @@ footer ul li a:hover{
         .header__container{
             grid-template-columns: 1fr;
             text-align: center;
-            margin-top: -2rem;
+            margin-top: 1px;
         }
 
         .header__left p {
