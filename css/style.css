@@ -17,9 +17,9 @@
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.7);
     --color-black: #000;
-    --color-bg: #1f2641;
-    --color-bg1: #2e3267;
-    --color-bg2: #424890;
+    --color-bg:linear-gradient(250deg, #8485a2 0, #566194 25%, #003f85 50%, #002376 75%, #000368 100%);
+    --color-bg1: #2e37ae;
+    --color-bg2: #242c5b;
 
     --container-width-lg: 88%;
     --container-width-md: 90%;
@@ -100,6 +100,10 @@ img {
 .btn-primary{
     background: var(--color-danger);
     color: var(--color-white);
+}
+
+.color_parrafos{
+    color: var(--color-danger);
 }
 
 /* ========================= NAVBAR ====================== */
